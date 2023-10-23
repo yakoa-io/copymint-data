@@ -1,0 +1,13 @@
+name: yakoa-io.copymint-data.copymint_contracts
+type: view
+access:
+  read:
+    - '*' # Indicates a public view, everyone can read
+migrations:
+  - name: create_view
+    sql: |
+      CREATE OR REPLACE VIEW yakoa-io.copymint-data.copymint_contracts AS
+      SELECT contract_chain, 
+             contract_address, 
+             is_whole_contract
+      FROM "Yakoa Data".copymint_contract_materialized
