@@ -1,6 +1,6 @@
-# Copymint - fradulent NFT datasets
+# Copymint - identify fradulent NFTs
 
-Yakoa uses AI to monitor millions of blockchain assets, identifying different types of infringements, and prioritizing them for faster take-downs.
+[Yakoa](https://www.yakoa.io/) uses AI to monitor millions of blockchain assets, identifying different types of infringements, and prioritizing them for faster take-downs.
 
 Yakoa and Spice have partnered to provide access to a community dataset of known fradulent NFTs called `copymint`. These are copyright-infringing NFTs that have been minted on a blockchain.
 
