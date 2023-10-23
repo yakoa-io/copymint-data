@@ -6,7 +6,7 @@ Yakoa and Spice have partnered to provide access to a community dataset of known
 
 ## `yakoa.copymint_contracts`
 
-This dataset has a row for each NFT contract that has been identified as fradulent. A contract contains many individual NFTs, and if the all of the NFTs within a contract are fradulent, `is_whole_contract` will be true.
+This dataset has a row for each NFT contract that has been identified as fradulent. A contract contains many individual NFTs, and if all of the NFTs within a contract are fradulent, `is_whole_contract` will be true.
 
 | Column Name         | Data Type | Description                                               |
 | ------------------- | --------- | --------------------------------------------------------- |
