@@ -1,4 +1,4 @@
-name: yakoa-io.copymint-data.copymint_tokens
+name: '"yakoa-io"."copymint-data".copymint_tokens'
 type: view
 access:
   read:
@@ -6,7 +6,7 @@ access:
 migrations:
   - name: create_view
     sql: |
-      CREATE OR REPLACE VIEW yakoa-io.copymint-data.copymint_tokens AS
+      CREATE OR REPLACE VIEW "yakoa-io"."copymint-data".copymint_tokens AS
       SELECT contract_chain, 
              contract_address, 
              token_id
