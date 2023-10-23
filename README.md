@@ -29,11 +29,11 @@ This dataset has a row for each individual NFT that has been identified as fradu
 Brands and Creators can take advantage of Yakoa's instant [full-cycle blockchain protection solution](https://www.yakoa.io/solutions/brands-and-creators) which allows creators to upload their official assets and Yakoa identifies infringments and submits takedown notices to all marketplaces listing the infringing NFTs.
 
 <a href="https://www.yakoa.io/solutions/brands-and-creators">
-  <img src="./content/yakoa_brand_creators.png" width="500" />
+  <img src="https://spiceaistatic.blob.core.windows.net/public/yakoa_brand_creators.png" width="500" />
 </a>
 
 Web3 apps can also integrate Yakoa's [API](https://www.yakoa.io/solutions/web3-apps) to monitor their own NFTs and take action on infringements or spam NFTs with deeper analytics, such as auditable records of first publication.
 
 <a href="https://www.yakoa.io/solutions/web3-apps">
-  <img src="./content/yakoa_web3_apps.png" width="500" />
+  <img src="https://spiceaistatic.blob.core.windows.net/public/yakoa_web3_apps.png" width="500" />
 </a>
