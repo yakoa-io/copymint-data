@@ -2,7 +2,7 @@
 
 [Yakoa](https://www.yakoa.io/) uses AI to monitor millions of blockchain assets, identifying different types of infringements, and prioritizing them for faster take-downs.
 
-Yakoa and Spice have partnered to provide access to a community dataset of flagged NFTs called `copymints`. These NFTs are similar enough to official sources of IP that they could be considered confusing or problematic.
+Yakoa and [Spice](https://spice.ai) have partnered to provide access to a community dataset of flagged NFTs called `copymints`. These NFTs are similar enough to official sources of IP that they could be considered confusing or problematic.
 
 ## `yakoa.copymint_contracts`
 
